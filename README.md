@@ -64,8 +64,8 @@ CREATE DATABASE ecommerce;
 
 ## 👤 Autor
 
-**Paulo**  
-Analista de Logística em transição para a área de Dados  
+**Paulo Vieira**  
+
 
 ---
 
