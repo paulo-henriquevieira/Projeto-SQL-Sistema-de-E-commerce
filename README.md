@@ -33,7 +33,7 @@ ecommerce
 
 | Módulo | Tema | Status |
 |--------|------|--------|
-| 1 | Fundamentos — CREATE, INSERT, SELECT, WHERE | ✅ Concluído |
+| 1 | Fundamentos — CREATE, INSERT, SELECT, WHERE | ✅ Completo |
 | 2 | JOINs e Relacionamentos | 🔜 Em breve |
 | 3 | Agregações e Agrupamentos | 🔜 Em breve |
 | 4 | Subqueries e CTEs | 🔜 Em breve |
