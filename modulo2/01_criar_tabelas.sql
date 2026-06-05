@@ -1,9 +1,3 @@
--- ============================================================
--- MÓDULO 2 — Criação das Tabelas
--- Projeto: Sistema de E-commerce
--- Banco: PostgreSQL 18
--- ============================================================
-
 -- Tabela de pedidos
 CREATE TABLE pedidos (
     id         SERIAL         PRIMARY KEY,
